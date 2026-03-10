@@ -1,12 +1,8 @@
 {
   "ads":[
     {
-      "image":"https://cdn.jsdelivr.net/gh/feroapps/ads-storage/images/ad1.png",
+      "image":"https://github.com/Fares-126/ads-manager/blob/main/images/civil.jpg?raw=true",
       "duration":30
     },
-    {
-      "image":"https://cdn.jsdelivr.net/gh/feroapps/ads-storage/images/ad2.png",
-      "duration":45
-    }
   ]
 }
