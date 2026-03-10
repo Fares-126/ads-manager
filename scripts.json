@@ -1,0 +1,12 @@
+{
+  "ads":[
+    {
+      "image":"https://cdn.jsdelivr.net/gh/feroapps/ads-storage/images/ad1.png",
+      "duration":30
+    },
+    {
+      "image":"https://cdn.jsdelivr.net/gh/feroapps/ads-storage/images/ad2.png",
+      "duration":45
+    }
+  ]
+}
